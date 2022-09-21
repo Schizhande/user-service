@@ -1,0 +1,6 @@
+server:
+  port: 8181
+
+user:
+  service:
+    url: http://localhost:9561
